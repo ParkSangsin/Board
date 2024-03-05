@@ -1,10 +1,10 @@
-package sangsin.board;
+package board_down.initializr;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BoardApplicationTests {
+class InitializrApplicationTests {
 
 	@Test
 	void contextLoads() {
